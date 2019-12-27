@@ -6,7 +6,7 @@
   "repository": "https://github.com/angular/angular-seed",
   "license": "MIT",
   "dependencies": {
-    "angular": "^1.7.5",
+    "angular": "^1.7.9",
     "angular-loader": "^1.7.5",
     "angular-route": "^1.7.5",
     "html5-boilerplate": "0.0.1"
@@ -16,7 +16,7 @@
     "cpx": "^1.5.0",
     "eslint": "^5.16.0",
     "eslint-config-google": "^0.13.0",
-    "http-server": "^0.11.1",
+    "http-server": "^0.12.0",
     "jasmine-core": "^3.3.0",
     "karma": "~4.1.0",
     "karma-chrome-launcher": "~2.2.0",
